@@ -1,164 +1,76 @@
 antecedents,consequents,support,confidence,lift
-Fashion,Beauty,0.264,0.5111,0.9993
-Beauty,Fashion,0.264,0.5161,0.9993
-Home,Books,0.2415,0.4919,0.9857
-Books,Home,0.2415,0.484,0.9857
-Home,Beauty,0.247,0.5031,0.9835
-Beauty,Home,0.247,0.4829,0.9835
-"Beauty, Books",Home,0.116,0.4793,0.9763
-"Home, Toys",Books,0.112,0.487,0.9759
-Fashion,Sport,0.2525,0.4889,0.969
-Sport,Fashion,0.2525,0.5005,0.969
-Electronics,Toys,0.2385,0.4862,0.9686
-Toys,Electronics,0.2385,0.4751,0.9686
-"Electronics, Fashion",Sport,0.118,0.4876,0.9665
-Electronics,Sport,0.239,0.4873,0.9658
-Sport,Electronics,0.239,0.4737,0.9658
-"Beauty, Sport",Fashion,0.1235,0.498,0.9642
-Electronics,Books,0.236,0.4811,0.9642
-Books,Electronics,0.236,0.4729,0.9642
-"Fashion, Toys",Beauty,0.122,0.4929,0.9637
-"Beauty, Toys",Fashion,0.122,0.4969,0.9621
-Beauty,Sport,0.248,0.4848,0.961
-Sport,Beauty,0.248,0.4916,0.961
-Books,Toys,0.2405,0.482,0.9601
-Toys,Books,0.2405,0.4791,0.9601
-"Sport, Toys",Electronics,0.113,0.4708,0.9599
-Electronics,Home,0.231,0.4709,0.9592
-Home,Electronics,0.231,0.4705,0.9592
-"Fashion, Sport",Beauty,0.1235,0.4891,0.9562
-Toys,Beauty,0.2455,0.489,0.9561
-Beauty,Toys,0.2455,0.48,0.9561
-"Electronics, Sport",Fashion,0.118,0.4937,0.9559
-Electronics,Fashion,0.242,0.4934,0.9552
-Fashion,Electronics,0.242,0.4685,0.9552
-Fashion,Toys,0.2475,0.4792,0.9546
-Toys,Fashion,0.2475,0.493,0.9546
-"Fashion, Sport",Electronics,0.118,0.4673,0.9528
-"Books, Fashion",Beauty,0.114,0.4872,0.9525
-"Beauty, Electronics",Fashion,0.115,0.4904,0.9495
-"Books, Toys",Home,0.112,0.4657,0.9485
-Beauty,Books,0.242,0.4731,0.9481
-Books,Beauty,0.242,0.485,0.9481
-Sport,Toys,0.24,0.4757,0.9476
-Toys,Sport,0.24,0.4781,0.9476
-"Home, Toys",Beauty,0.111,0.4826,0.9435
-"Beauty, Electronics",Sport,0.1115,0.4755,0.9425
-"Electronics, Sport",Toys,0.113,0.4728,0.9418
-"Electronics, Home",Books,0.1085,0.4697,0.9413
-"Beauty, Home",Books,0.116,0.4696,0.9412
-"Books, Home",Beauty,0.116,0.4803,0.9391
-"Electronics, Toys",Sport,0.113,0.4738,0.9391
-"Books, Electronics",Home,0.1085,0.4597,0.9363
-Beauty,Electronics,0.2345,0.4585,0.9347
-Electronics,Beauty,0.2345,0.4781,0.9347
-"Beauty, Electronics",Home,0.1075,0.4584,0.9337
-Home,Toys,0.23,0.4684,0.9331
-Toys,Home,0.23,0.4582,0.9331
-"Electronics, Fashion",Beauty,0.115,0.4752,0.929
-"Home, Sport",Beauty,0.105,0.4751,0.9289
-"Sport, Toys",Fashion,0.115,0.4792,0.9277
-"Beauty, Fashion",Sport,0.1235,0.4678,0.9273
-Fashion,Home,0.235,0.455,0.9267
-"Fashion, Toys",Electronics,0.1125,0.4545,0.9267
-Home,Fashion,0.235,0.4786,0.9267
-"Beauty, Books",Toys,0.1125,0.4649,0.926
-"Electronics, Fashion",Toys,0.1125,0.4649,0.926
-"Books, Home",Toys,0.112,0.4638,0.9238
-"Home, Toys",Electronics,0.104,0.4522,0.9219
-"Fashion, Toys",Sport,0.115,0.4646,0.921
-"Beauty, Toys",Home,0.111,0.4521,0.9209
-"Beauty, Fashion",Toys,0.122,0.4621,0.9206
-Sport,Books,0.2315,0.4589,0.9196
-Books,Sport,0.2315,0.4639,0.9196
-"Fashion, Home",Beauty,0.1105,0.4702,0.9193
-"Beauty, Toys",Books,0.1125,0.4582,0.9183
-"Beauty, Sport",Electronics,0.1115,0.4496,0.9166
-"Books, Home",Electronics,0.1085,0.4493,0.916
-"Books, Toys",Beauty,0.1125,0.4678,0.9145
-"Books, Fashion, Toys",Beauty,0.05,0.4673,0.9136
-"Home, Sport",Electronics,0.099,0.448,0.9133
-"Electronics, Toys",Fashion,0.1125,0.4717,0.9133
-"Electronics, Sport",Beauty,0.1115,0.4665,0.9121
-"Beauty, Books",Fashion,0.114,0.4711,0.9121
-"Books, Sport",Electronics,0.1035,0.4471,0.9115
-"Books, Fashion",Toys,0.107,0.4573,0.9109
-"Electronics, Home",Beauty,0.1075,0.4654,0.9098
-"Beauty, Electronics",Toys,0.107,0.4563,0.9089
-Fashion,Books,0.234,0.453,0.9079
-Books,Fashion,0.234,0.4689,0.9079
-"Fashion, Sport",Toys,0.115,0.4554,0.9073
-"Fashion, Home",Electronics,0.1045,0.4447,0.9066
-"Beauty, Electronics",Books,0.106,0.452,0.9059
-"Fashion, Sport, Toys",Electronics,0.051,0.4435,0.9041
-"Beauty, Electronics, Sport",Fashion,0.052,0.4664,0.9029
-"Beauty, Sport, Toys",Fashion,0.051,0.4658,0.9017
-"Electronics, Fashion, Toys",Sport,0.051,0.4533,0.8986
-"Home, Sport",Toys,0.0995,0.4502,0.8969
-"Electronics, Home",Toys,0.104,0.4502,0.8968
-"Beauty, Electronics, Fashion",Sport,0.052,0.4522,0.8963
-"Beauty, Home",Toys,0.111,0.4494,0.8952
-"Books, Toys",Electronics,0.1055,0.4387,0.8943
-"Books, Fashion",Sport,0.1055,0.4509,0.8937
-"Beauty, Books",Electronics,0.106,0.438,0.893
-Home,Sport,0.221,0.4501,0.8922
-Sport,Home,0.221,0.4381,0.8922
-"Sport, Toys",Beauty,0.1095,0.4563,0.892
-"Books, Sport",Beauty,0.1055,0.4557,0.891
-"Books, Electronics",Toys,0.1055,0.447,0.8905
-"Home, Sport",Books,0.098,0.4434,0.8887
-"Beauty, Toys",Electronics,0.107,0.4358,0.8886
-"Electronics, Toys",Home,0.104,0.4361,0.8881
-"Beauty, Fashion",Electronics,0.115,0.4356,0.8881
-"Beauty, Home",Electronics,0.1075,0.4352,0.8873
-"Electronics, Toys",Books,0.1055,0.4423,0.8865
-"Books, Sport",Toys,0.103,0.4449,0.8863
-"Beauty, Toys",Sport,0.1095,0.446,0.8841
-"Books, Fashion",Home,0.1015,0.4338,0.8834
-"Books, Sport",Fashion,0.1055,0.4557,0.8823
-"Beauty, Sport",Toys,0.1095,0.4415,0.8795
-"Electronics, Fashion",Home,0.1045,0.4318,0.8795
-"Books, Electronics",Beauty,0.106,0.4492,0.8781
-"Electronics, Toys",Beauty,0.107,0.4486,0.8771
-"Electronics, Home",Fashion,0.1045,0.4524,0.8759
-"Electronics, Sport, Toys",Fashion,0.051,0.4513,0.8738
-"Beauty, Books, Fashion",Toys,0.05,0.4386,0.8737
-"Books, Electronics",Sport,0.1035,0.4386,0.8693
-"Fashion, Home",Toys,0.1025,0.4362,0.8689
-"Electronics, Sport",Books,0.1035,0.4331,0.8678
-"Fashion, Sport, Toys",Beauty,0.051,0.4435,0.867
-"Fashion, Toys",Books,0.107,0.4323,0.8664
-"Beauty, Home",Fashion,0.1105,0.4474,0.8662
-"Fashion, Home",Books,0.1015,0.4319,0.8656
-"Beauty, Fashion",Books,0.114,0.4318,0.8654
-"Beauty, Books",Sport,0.1055,0.436,0.8641
-"Home, Toys",Fashion,0.1025,0.4457,0.8628
-"Books, Fashion",Electronics,0.099,0.4231,0.8625
-"Beauty, Sport",Home,0.105,0.4234,0.8623
-"Books, Sport",Home,0.098,0.4233,0.8622
-"Electronics, Fashion, Sport",Beauty,0.052,0.4407,0.8615
-"Books, Toys",Fashion,0.107,0.4449,0.8614
-"Electronics, Fashion, Sport",Toys,0.051,0.4322,0.861
-"Beauty, Books, Toys",Fashion,0.05,0.4444,0.8605
-"Sport, Toys",Books,0.103,0.4292,0.8601
-"Beauty, Fashion, Sport",Electronics,0.052,0.4211,0.8584
-"Home, Toys",Sport,0.0995,0.4326,0.8575
-"Beauty, Fashion",Home,0.1105,0.4186,0.8525
-"Beauty, Sport",Books,0.1055,0.4254,0.8525
-"Electronics, Home",Sport,0.099,0.4286,0.8495
-"Books, Toys",Sport,0.103,0.4283,0.8489
-"Sport, Toys",Home,0.0995,0.4146,0.8444
-"Electronics, Sport",Home,0.099,0.4142,0.8436
-"Fashion, Toys",Home,0.1025,0.4141,0.8435
-"Beauty, Home",Sport,0.105,0.4251,0.8426
-"Home, Sport",Fashion,0.096,0.4344,0.841
-"Fashion, Sport",Books,0.1055,0.4178,0.8373
-"Beauty, Fashion, Toys",Sport,0.051,0.418,0.8286
-"Beauty, Fashion, Sport",Toys,0.051,0.413,0.8226
-"Beauty, Fashion, Toys",Books,0.05,0.4098,0.8213
-"Electronics, Fashion",Books,0.099,0.4091,0.8198
-"Books, Home",Fashion,0.1015,0.4203,0.8137
-"Books, Electronics",Fashion,0.099,0.4195,0.8122
-"Fashion, Home",Sport,0.096,0.4085,0.8097
-"Books, Home",Sport,0.098,0.4058,0.8044
-"Fashion, Sport",Home,0.096,0.3802,0.7743
+"Beauty, Fashion, Home, Sport",Food,0.25,0.8446,1.2066
+"Fashion, Food, Home, Sport",Beauty,0.25,0.8347,1.2019
+"Beauty, Food, Home, Sport",Fashion,0.25,0.8319,1.1784
+"Beauty, Fashion, Food, Home",Sport,0.25,0.8292,1.1728
+"Beauty, Fashion, Home",Food,0.3015,0.8138,1.1625
+"Beauty, Fashion, Food, Sport",Home,0.25,0.8183,1.1624
+"Beauty, Home, Sport",Food,0.3005,0.8067,1.1524
+"Fashion, Food, Home",Beauty,0.3015,0.7997,1.1515
+"Beauty, Fashion, Sport",Food,0.3055,0.8061,1.1515
+"Food, Home, Sport",Beauty,0.3005,0.7992,1.1508
+"Beauty, Fashion, Food",Sport,0.3055,0.8114,1.1477
+"Fashion, Home, Sport",Food,0.2995,0.8029,1.1471
+"Beauty, Food, Sport",Fashion,0.3055,0.8082,1.1448
+"Fashion, Home, Sport",Beauty,0.296,0.7936,1.1426
+"Fashion, Food, Sport",Beauty,0.3055,0.7904,1.1381
+"Beauty, Fashion, Food",Home,0.3015,0.8008,1.1375
+"Beauty, Fashion, Home",Sport,0.296,0.7989,1.13
+"Beauty, Food, Sport",Home,0.3005,0.795,1.1292
+"Beauty, Food, Home",Fashion,0.3015,0.7966,1.1283
+"Food, Home, Sport",Fashion,0.2995,0.7965,1.1282
+"Beauty, Home, Sport",Fashion,0.296,0.7946,1.1255
+"Fashion, Food, Home",Sport,0.2995,0.7944,1.1237
+"Beauty, Food, Home",Sport,0.3005,0.7939,1.1229
+"Beauty, Fashion, Sport",Home,0.296,0.781,1.1094
+"Fashion, Food, Sport",Home,0.2995,0.7749,1.1007
+"Beauty, Food",Home,0.3785,0.7631,1.084
+"Fashion, Home",Food,0.377,0.7586,1.0836
+"Beauty, Sport",Food,0.378,0.7568,1.0811
+"Food, Home",Beauty,0.3785,0.7502,1.0803
+"Beauty, Home",Food,0.3785,0.7562,1.0803
+"Fashion, Sport",Food,0.3865,0.7556,1.0795
+"Food, Sport",Fashion,0.3865,0.7616,1.0787
+"Beauty, Food",Sport,0.378,0.7621,1.0779
+"Fashion, Food",Sport,0.3865,0.7616,1.0772
+"Beauty, Fashion",Food,0.3765,0.753,1.0757
+"Beauty, Food",Fashion,0.3765,0.7591,1.0752
+"Beauty, Sport",Fashion,0.379,0.7588,1.0747
+"Fashion, Home",Beauty,0.3705,0.7455,1.0734
+"Food, Sport",Beauty,0.378,0.7448,1.0725
+"Beauty, Fashion",Sport,0.379,0.758,1.0721
+"Home, Sport",Food,0.376,0.749,1.07
+"Home, Sport",Beauty,0.3725,0.742,1.0684
+"Fashion, Food",Beauty,0.3765,0.7419,1.0682
+"Fashion, Sport",Beauty,0.379,0.741,1.0669
+"Fashion, Home",Sport,0.373,0.7505,1.0615
+"Beauty, Sport",Home,0.3725,0.7457,1.0593
+"Food, Home",Fashion,0.377,0.7473,1.0585
+"Fashion, Food",Home,0.377,0.7429,1.0552
+"Food, Home",Sport,0.376,0.7453,1.0542
+"Beauty, Home",Sport,0.3725,0.7443,1.0527
+"Beauty, Fashion",Home,0.3705,0.741,1.0526
+"Food, Sport",Home,0.376,0.7409,1.0524
+"Home, Sport",Fashion,0.373,0.743,1.0524
+"Beauty, Home",Fashion,0.3705,0.7403,1.0485
+"Fashion, Sport",Home,0.373,0.7292,1.0358
+Food,Fashion,0.5075,0.725,1.0269
+Fashion,Food,0.5075,0.7188,1.0269
+Sport,Food,0.5075,0.7178,1.0255
+Food,Sport,0.5075,0.725,1.0255
+Sport,Fashion,0.5115,0.7235,1.0248
+Fashion,Sport,0.5115,0.7245,1.0248
+Home,Food,0.5045,0.7166,1.0237
+Food,Home,0.5045,0.7207,1.0237
+Beauty,Home,0.5005,0.7207,1.0237
+Home,Beauty,0.5005,0.7109,1.0237
+Beauty,Food,0.496,0.7142,1.0203
+Food,Beauty,0.496,0.7086,1.0203
+Beauty,Fashion,0.5,0.7199,1.0197
+Fashion,Beauty,0.5,0.7082,1.0197
+Beauty,Sport,0.4995,0.7192,1.0173
+Sport,Beauty,0.4995,0.7065,1.0173
+Home,Sport,0.502,0.7131,1.0086
+Sport,Home,0.502,0.71,1.0086
+Fashion,Home,0.497,0.704,1.0
+Home,Fashion,0.497,0.706,1.0
